@@ -1,7 +1,7 @@
 <h1 align ="center">Hi there , I'm Ravin 👋</h1>
-<h3 align="center">Developer Advocate at FlyCode. JavaScript lover, Technical writer</h3>
+<h3 align="center"> I'm a self-taught Software Developer based in India. I'm passionate about learning new things, especially when it comes to JavaScript based technologies</h3>
 
-- I’m currently working at [FlyCode](https://flycode.com/)
+- I’m currently working Developer Advocate at [FlyCode](https://flycode.com/)
 - I use daily `.js`, `.ts`
 - I have created a [Dev Town](https://discord.gg/K2x27MRA2j) Discord community to help each other as a software developer
 - I’m looking to collaborate with other content creators
