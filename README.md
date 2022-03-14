@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1 align ="center">Hi there , I'm Ravin 👋</h1>
+<h3 align="center">Developer Advocate at FlyCode. JavaScript lover, Technical writer</h3>
+
+- I’m currently working at [FlyCode](https://flycode.com/)
+- I use daily `.js`, `.ts`
+- I have created a [Dev Town](https://discord.gg/K2x27MRA2j) Discord community to help each other as a software developer
+- I’m looking to collaborate with other content creators
+- You can visit my [Twitter](https://twitter.com/ravinwashere) to read my tweets and learn more about me.
+
+
 
 <!--
 **ravinwashere/ravinwashere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
