@@ -11,6 +11,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn How To Contribute To Your First Opensource Project In 5 Minutes](https://ravinwashere.com/learn-how-to-contribute-to-your-first-opensource-project-in-5-minutes-ckz6wuhk600u307s10f5oaecd)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https:/ravinwashere.com)
