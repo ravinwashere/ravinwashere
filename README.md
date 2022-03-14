@@ -13,7 +13,6 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-→ [more blog posts...](https://ravinwashere.com)
 
 <!--
 **ravinwashere/ravinwashere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
