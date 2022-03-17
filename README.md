@@ -11,6 +11,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [7 ways to iterate over arrays in JavaScript](https://ravinwashere.com/7-ways-to-iterate-over-arrays-in-javascript-cl0v0mnaa00buj6nva5c0grgs)
 - [Learn How To Contribute To Your First Opensource Project In 5 Minutes](https://ravinwashere.com/learn-how-to-contribute-to-your-first-opensource-project-in-5-minutes-ckz6wuhk600u307s10f5oaecd)
 <!-- BLOG-POST-LIST:END -->
 
